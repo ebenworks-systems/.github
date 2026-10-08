@@ -23,7 +23,7 @@ Ebenworks is an AI product company building for the people the system overlooks.
 
 ## The shared layer
 
-- **[Njere Engine](https://ebenworks.co/njere)** is our model gateway. Each product names a primary provider and its fallbacks; Njere routes the request, moves to the next provider on an outage, a missing model or a rate limit, and checks the structure of every reply before the product receives it.
+- **[Njere Engine](https://ebenworks.co/njere)** is our model gateway. Each configuration names a primary provider and its fallbacks; Njere routes the request, moves to the next provider on an outage, a missing model or a rate limit, and checks the structure of every reply before the product receives it.
 - **[Ebenworks Accounts](https://accounts.ebenworks.co/)** gives one sign-in for every connected product, with organisations and subscriptions. [Privacy](https://accounts.ebenworks.co/privacy) · [Security](https://accounts.ebenworks.co/security) · [Sub-processors](https://accounts.ebenworks.co/subprocessors)
 - **[System status](https://status.ebenworks.co/)** shows whether each product, site and platform service is operating.
 
