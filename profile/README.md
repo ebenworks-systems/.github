@@ -48,6 +48,17 @@ Twenty-six date ideas per city, one for every letter of the alphabet. Real addre
 
 [South Korea](https://az.dates.ebenworks.co/korea/) · [United States](https://az.dates.ebenworks.co/usa/) · [Canada](https://az.dates.ebenworks.co/canada/) · [Seasons](https://az.dates.ebenworks.co/seasons/)
 
+## Find us
+
+- Ebenworks: [LinkedIn](https://www.linkedin.com/company/ebenworks) · [Instagram](https://www.instagram.com/ebenworks.co/) · [YouTube](https://www.youtube.com/channel/UChUx7mbGTtumVd1VIaF4i5w) · [Hugging Face](https://huggingface.co/ebenworks)
+- Imali AI: [Instagram](https://www.instagram.com/imali.africa/) · [Threads](https://www.threads.com/@imali.africa) · [X](https://x.com/imaliafrica)
+- Chingu Care AI: [Instagram](https://www.instagram.com/chingucare.ai/) · [Threads](https://www.threads.com/@chingucare.ai)
+- Phila Health Ecosystem: [Instagram](https://www.instagram.com/phila.healthcare/) · [Threads](https://www.threads.com/@phila.healthcare) · [YouTube](https://www.youtube.com/@phila.health)
+- BidWright Tender AI: [Instagram](https://www.instagram.com/bidwright.app/) · [Threads](https://www.threads.com/@bidwright.app)
+- StatoSports: [Instagram](https://www.instagram.com/statosports/) · [Threads](https://www.threads.com/@statosports)
+- Diaspry Community OS: [Instagram](https://www.instagram.com/diaspry.community/) · [Threads](https://www.threads.com/@diaspry.community)
+- Izwi Music OS: [Instagram](https://www.instagram.com/izwi.music/)
+
 ## Platform
 
 [Ebenworks Accounts](https://accounts.ebenworks.co/) gives one sign-in for every connected Ebenworks product. [Privacy](https://accounts.ebenworks.co/privacy) · [Security](https://accounts.ebenworks.co/security) · [Sub-processors](https://accounts.ebenworks.co/subprocessors)
