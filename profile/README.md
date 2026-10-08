@@ -1,6 +1,6 @@
 # Ebenworks
 
-An AI product company building practical software for businesses, care teams and communities.
+Ebenworks is an AI product company building for the people the system overlooks. Nine products on one shared platform.
 
 [ebenworks.co](https://ebenworks.co) · [About](https://ebenworks.co/about) · [Work](https://ebenworks.co/work) · [Research](https://ebenworks.co/research) · [Open source](https://ebenworks.co/open-source) · [Careers](https://ebenworks.co/careers) · [Contact](https://ebenworks.co/contact)
 
